@@ -1,9 +1,12 @@
-# Installation du Tp-Arbre-Tableau :
+# Installation du projet Tp-Arbre-Tableau :
 
 
 # Projet back-End
 
-1. télécharger le projet backEnd sur le dépôt suivant et suivre les étapes d'installation de l'environnement :
+1. télécharger le projet seedBackEnd sur le dépôt ci-dessous et suivre les étapes d'installation de 
+l'environnement :
+    [seedBackEnd](https://github.com/gitProject01/seedBackEnd). 
+ 
    1. démarrer le serveur weblogic 12.1.3 
       - ouvrir une invite de commande
       - aller sur le dossier 
