@@ -1,7 +1,7 @@
-# rootBackFront
+# projet backEnd et frontend :
 
 
-projet backEnd et frontend :
+
 
 1. télécharger le projet backEnd sur le dépôt suivant et suivre les étapes d'installation de l'environnement :
    1. démarrer le serveur weblogic 12.1.3 
